@@ -1,6 +1,7 @@
 # Course
 [JSP, Servlets and JDBC for Beginners: Build a Database App](https://www.udemy.com/course/jsp-tutorial/learn/lecture/4056816#overview)
 # Resources
+[JSP Comments](https://stackoverflow.com/questions/220243/how-comment-a-jsp-expression)
 # Web Server
 [Tomcat](https://tomcat.apache.org/download-80.cgi)
 # IDE
