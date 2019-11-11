@@ -2,4 +2,5 @@
 # Web Server
 [Tomcat](https://tomcat.apache.org/download-80.cgi)
 # Tools
-[JDK 13](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html)
+[JDK 13](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html)\
+[JDK 13 Documentation](https://docs.oracle.com/en/java/javase/13/index.html)
