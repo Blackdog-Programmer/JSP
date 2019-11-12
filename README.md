@@ -11,7 +11,8 @@
 [JDK 13 Documentation](https://docs.oracle.com/en/java/javase/13/index.html)
 # Others
 [Difference Between JSP vs JavaScript](https://www.educba.com/jsp-vs-javascript/)\
-[What is Web Sessions?](https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work)
+[What is Web Sessions?](https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work)\
+[FAQ: Details on PageContext and Session objects](https://www.udemy.com/course/jsp-tutorial/learn/lecture/6081918#overview)
 # Ref Slides
 ![What is WebApplication](/reference/WebApplication.png)\
 ![JSP Script Elements](/reference/JavaScriptingElement.png)\
