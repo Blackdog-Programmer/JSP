@@ -14,6 +14,4 @@
 [What is Web Sessions?](https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work)\
 [FAQ: Details on PageContext and Session objects](https://www.udemy.com/course/jsp-tutorial/learn/lecture/6081918#overview)
 # Ref Slides
-![What is WebApplication](/reference/WebApplication.png)\
-![JSP Script Elements](/reference/JavaScriptingElement.png)\
-![Web Session](/reference/TomcatSessionID.png)\
+
