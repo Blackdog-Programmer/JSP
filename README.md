@@ -14,11 +14,12 @@
 [JDK 13 Documentation](https://docs.oracle.com/en/java/javase/13/index.html)\
 [javax.servlet.jsp.jstl/1.2.1](https://mvnrepository.com/artifact/org.glassfish.web/javax.servlet.jsp.jstl/1.2.1)\
 [javax.servlet.jsp.jstl-api/1.2.1](https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1)
-# Others
+# Q/A
 [Difference Between JSP vs JavaScript](https://www.educba.com/jsp-vs-javascript/)\
 [What is Web Sessions?](https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work)\
 [What is Cookie?](http://www.whatarecookies.com/)\
 [What is Single_sign-on](https://en.wikipedia.org/wiki/Single_sign-on)
-[FAQ: Details on PageContext and Session objects](https://www.udemy.com/course/jsp-tutorial/learn/lecture/6081918#overview)
+[FAQ: Details on PageContext and Session objects](https://www.udemy.com/course/jsp-tutorial/learn/lecture/6081918#overview)\
+[What is JAR File](https://www.geeksforgeeks.org/jar-files-java/)
 # Ref Slides
 [JSP Expressions.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/10-jsp-tutorial-jsp-expressions.pdf)
