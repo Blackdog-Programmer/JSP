@@ -1,8 +1,8 @@
 # Course
 [JSP, Servlets and JDBC for Beginners: Build a Database App](https://www.udemy.com/course/jsp-tutorial/learn/lecture/4056816#overview)
 # Resources
-[JSP Comments](https://stackoverflow.com/questions/220243/how-comment-a-jsp-expression)\
-[JSP Scriptlet tag (Scripting elements](https://www.javatpoint.com/jsp-scriptlet-tag)\
+[JSP - Comments](https://stackoverflow.com/questions/220243/how-comment-a-jsp-expression)\
+[JSP - Scriptlet tag (Scripting elements](https://www.javatpoint.com/jsp-scriptlet-tag)\
 [JSP - Custom Tags](https://www.tutorialspoint.com/jsp/jsp_custom_tags.htm)\
 [JSP - Standard Tag Library (JSTL) Tutorial](https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm)
 # Web Server
