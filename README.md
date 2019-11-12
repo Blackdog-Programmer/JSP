@@ -2,7 +2,6 @@
 [JSP, Servlets and JDBC for Beginners: Build a Database App](https://www.udemy.com/course/jsp-tutorial/learn/lecture/4056816#overview)
 # Resources
 [JSP Comments](https://stackoverflow.com/questions/220243/how-comment-a-jsp-expression)\
-[FAQ: Details on PageContext and Session objects](https://www.udemy.com/course/jsp-tutorial/learn/lecture/6081918#overview)
 [JSP Scriptlet tag (Scripting elements](https://www.javatpoint.com/jsp-scriptlet-tag)\
 [JSP - Custom Tags](https://www.tutorialspoint.com/jsp/jsp_custom_tags.htm)\
 [JSP - Standard Tag Library (JSTL) Tutorial](https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm)
@@ -18,5 +17,6 @@
 [What is Web Sessions?](https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work)\
 [What is Cookie?](http://www.whatarecookies.com/)\
 [What is Single_sign-on](https://en.wikipedia.org/wiki/Single_sign-on)
+[FAQ: Details on PageContext and Session objects](https://www.udemy.com/course/jsp-tutorial/learn/lecture/6081918#overview)
 # Ref Slides
 [JSP Expressions.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/10-jsp-tutorial-jsp-expressions.pdf)
