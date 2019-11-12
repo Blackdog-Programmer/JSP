@@ -22,6 +22,8 @@
 	String theItem = request.getParameter("theItem");
 	if ((theItem != null) && (!theItem.trim().equals(""))) {
 		items.add(theItem);
+		
+		response.sendRedirect("todo-demo.jsp");
 	}
 %>
 
