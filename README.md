@@ -14,4 +14,5 @@
 [What is Web Sessions?](https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work)
 # Ref Slides
 ![What is WebApplication](/reference/WebApplication.png)\
-![JSP Script Elements](/reference/JavaScriptingElement.png)
+![JSP Script Elements](/reference/JavaScriptingElement.png)\
+![Web Session](/reference/TomcatSessionID.png)\
