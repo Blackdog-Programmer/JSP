@@ -11,7 +11,9 @@
 [Eclipse IDE for Enterprise Java Developers](https://www.eclipse.org/downloads/)
 # Tools
 [JDK 13](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html)\
-[JDK 13 Documentation](https://docs.oracle.com/en/java/javase/13/index.html)
+[JDK 13 Documentation](https://docs.oracle.com/en/java/javase/13/index.html)\
+[javax.servlet.jsp.jstl/1.2.1](https://mvnrepository.com/artifact/org.glassfish.web/javax.servlet.jsp.jstl/1.2.1)\
+[javax.servlet.jsp.jstl-api/1.2.1](https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1)
 # Others
 [Difference Between JSP vs JavaScript](https://www.educba.com/jsp-vs-javascript/)\
 [What is Web Sessions?](https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work)\
