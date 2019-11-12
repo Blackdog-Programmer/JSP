@@ -4,6 +4,8 @@
 [JSP Comments](https://stackoverflow.com/questions/220243/how-comment-a-jsp-expression)\
 [FAQ: Details on PageContext and Session objects](https://www.udemy.com/course/jsp-tutorial/learn/lecture/6081918#overview)
 [JSP Scriptlet tag (Scripting elements](https://www.javatpoint.com/jsp-scriptlet-tag)\
+[JSP - Custom Tags](https://www.tutorialspoint.com/jsp/jsp_custom_tags.htm)\
+[JSP - Standard Tag Library (JSTL) Tutorial](https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm)
 # Web Server
 [Tomcat](https://tomcat.apache.org/download-80.cgi)
 # IDE
