@@ -20,7 +20,7 @@
 	}
 	
 	String theItem = request.getParameter("theItem");
-	if (theItem != null) {
+	if ((theItem != null) && (!theItem.trim().equals(""))) {
 		items.add(theItem);
 	}
 %>
