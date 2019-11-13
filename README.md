@@ -49,3 +49,6 @@
 [28-jstl-functions.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/28-jstl-functions.pdf)\
 [30-jstl-i18n-overview.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/30-jstl-i18n-overview.pdf)\
 [31-jstl-i18n-messages.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/31-jstl-i18n-messages.pdf)
+
+# Info Graphics
+![JSTL_ServiceTags.png](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/JSTL_ServiceTags.png)\
