@@ -52,3 +52,5 @@
 
 # Info Graphics
 ![JSTL_ServiceTags.png](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/JSTL_ServiceTags.png)\
+![JSTL_CoreTag_Include.png](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/JSTL_CoreTag_Include.png)\
+![JSTL_FunctionTag_Include.png](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/JSTL_FunctionTag_Include.png)
