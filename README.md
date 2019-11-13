@@ -20,6 +20,7 @@
 [What is Cookie?](http://www.whatarecookies.com/)\
 [What is Single_sign-on](https://en.wikipedia.org/wiki/Single_sign-on)
 [FAQ: Details on PageContext and Session objects](https://www.udemy.com/course/jsp-tutorial/learn/lecture/6081918#overview)\
-[What is JAR File](https://www.geeksforgeeks.org/jar-files-java/)
+[What is JAR File](https://www.geeksforgeeks.org/jar-files-java/)\
+[JSP vs Servlet](https://www.quora.com/What-is-the-difference-between-Java-servlets-and-JSP)
 # Ref Slides
 [JSP Expressions.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/10-jsp-tutorial-jsp-expressions.pdf)
