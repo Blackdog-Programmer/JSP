@@ -1,19 +1,23 @@
-\# Course
+# Course
 [JSP, Servlets and JDBC for Beginners: Build a Database App](https://www.udemy.com/course/jsp-tutorial/learn/lecture/4056816#overview)
 # Resources
 [JSP - Comments](https://stackoverflow.com/questions/220243/how-comment-a-jsp-expression)\
 [JSP - Scriptlet tag (Scripting elements](https://www.javatpoint.com/jsp-scriptlet-tag)\
 [JSP - Custom Tags](https://www.tutorialspoint.com/jsp/jsp_custom_tags.htm)\
 [JSP - Standard Tag Library (JSTL) Tutorial](https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm)
+
 # Web Server
 [Tomcat](https://tomcat.apache.org/download-80.cgi)
+
 # IDE
 [Eclipse IDE for Enterprise Java Developers](https://www.eclipse.org/downloads/)
+
 # Tools
 [JDK 13](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html)\
 [JDK 13 Documentation](https://docs.oracle.com/en/java/javase/13/index.html)\
 [javax.servlet.jsp.jstl/1.2.1](https://mvnrepository.com/artifact/org.glassfish.web/javax.servlet.jsp.jstl/1.2.1)\
 [javax.servlet.jsp.jstl-api/1.2.1](https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1)
+
 # Q/A
 [Difference Between JSP vs JavaScript](https://www.educba.com/jsp-vs-javascript/)\
 [What is Web Sessions?](https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work)\
@@ -23,6 +27,7 @@
 [What is JAR File](https://www.geeksforgeeks.org/jar-files-java/)\
 [JSP vs Servlet](https://www.quora.com/What-is-the-difference-between-Java-servlets-and-JSP)
 [What is MVC in JSP)(https://www.javatpoint.com/MVC-in-jsp)
+
 # Ref Slides
 [02-jsp-servlet-overview](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/02-jsp-servlet-overview.pdf)\
 [09-jsp-tutorial-helloworld](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/09-jsp-tutorial-helloworld.pdf)\
