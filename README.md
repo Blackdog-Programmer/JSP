@@ -1,4 +1,4 @@
-# Course
+\# Course
 [JSP, Servlets and JDBC for Beginners: Build a Database App](https://www.udemy.com/course/jsp-tutorial/learn/lecture/4056816#overview)
 # Resources
 [JSP - Comments](https://stackoverflow.com/questions/220243/how-comment-a-jsp-expression)\
@@ -22,5 +22,25 @@
 [FAQ: Details on PageContext and Session objects](https://www.udemy.com/course/jsp-tutorial/learn/lecture/6081918#overview)\
 [What is JAR File](https://www.geeksforgeeks.org/jar-files-java/)\
 [JSP vs Servlet](https://www.quora.com/What-is-the-difference-between-Java-servlets-and-JSP)
+[What is MVC in JSP)(https://www.javatpoint.com/MVC-in-jsp)
 # Ref Slides
-[JSP Expressions.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/10-jsp-tutorial-jsp-expressions.pdf)
+[02-jsp-servlet-overview](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/02-jsp-servlet-overview.pdf)\
+[09-jsp-tutorial-helloworld](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/09-jsp-tutorial-helloworld.pdf)\
+[10-jsp-tutorial-jsp-expressions.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/10-jsp-tutorial-jsp-expressions.pdf)\
+[11-jsp-tutorial-jsp-scriptlets.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/11-jsp-tutorial-jsp-scriptlets.pdf)\
+[12-jsp-tutorial-jsp-declarations.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/12-jsp-tutorial-jsp-declarations.pdf)\
+[14-jsp-tutorial-jsp-builtin-objects.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/14-jsp-tutorial-jsp-builtin-objects.pdf)\
+[15-jsp-tutorial-including-files.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/15-jsp-tutorial-including-files.pdf)\
+[16-jsp-tutorial-html-forms-overview.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/16-jsp-tutorial-html-forms-overview.pdf)\
+[17_jsp_forms_drop_down_list.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/17_jsp_forms_drop_down_list.pdf)\
+[18_jsp_forms_radio_buttons.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/18_jsp_forms_radio_buttons.pdf)\
+[19_jsp_forms_checkbox.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/19_jsp_forms_checkbox.pdf)\
+[20_jsp_sessions](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/20_jsp_sessions.pdf)\
+[21_cookies.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/21_cookies.pdf)\
+[23-jsp-tags-overview.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/23-jsp-tags-overview.pdf)\
+[24-jstl-part-1.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/24-jstl-part-1.pdf)\
+[26-jstl-if.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/26-jstl-if.pdf)\
+[27-jstl-choose.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/27-jstl-choose.pdf)\
+[28-jstl-functions.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/28-jstl-functions.pdf)\
+[30-jstl-i18n-overview.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/30-jstl-i18n-overview.pdf)\
+[31-jstl-i18n-messages.pdf](https://github.com/Blackdog-Programmer/JSP/blob/master/reference/31-jstl-i18n-messages.pdf)
