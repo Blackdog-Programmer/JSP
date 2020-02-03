@@ -1,10 +1,9 @@
-# Course
-[JSP, Servlets and JDBC for Beginners: Build a Database App](https://www.udemy.com/course/jsp-tutorial/learn/lecture/4056816#overview)
-# Resources
-[JSP - Comments](https://stackoverflow.com/questions/220243/how-comment-a-jsp-expression)\
-[JSP - Scriptlet tag (Scripting elements](https://www.javatpoint.com/jsp-scriptlet-tag)\
-[JSP - Custom Tags](https://www.tutorialspoint.com/jsp/jsp_custom_tags.htm)\
-[JSP - Standard Tag Library (JSTL) Tutorial](https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm)
+## 0. Articles
+[Real World Java EE](https://real-world-java-ee.zeef.com/arjan.tijms)
+
+## 1. References
+[Java Point - Learn JSP](https://www.javatpoint.com/jsp-tutorial)\
+[Java Point - Learn Servlet](https://www.javatpoint.com/servlet-tutorial)
 
 # Web Server
 [Tomcat](https://tomcat.apache.org/download-80.cgi)
