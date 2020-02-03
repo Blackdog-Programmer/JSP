@@ -1,5 +1,6 @@
 ## 0. Articles
-[Real World Java EE](https://real-world-java-ee.zeef.com/arjan.tijms)
+[Real World Java EE](https://real-world-java-ee.zeef.com/arjan.tijms)\
+[Oracle support JSP Servlet in JAVA EE](www.oracle.com/technetwork/java/javaee/tech/index.html)
 
 ## 1. References
 [Java Point - Learn JSP](https://www.javatpoint.com/jsp-tutorial)\
