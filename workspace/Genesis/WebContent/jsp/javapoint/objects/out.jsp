@@ -2,7 +2,7 @@
 <body>
 <%
   String name=request.getParameter("uname");
-  out.print("welcome "+name);
+  out.print("Welcome: " + name);
 %>
 </body>
 </html>
