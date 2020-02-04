@@ -25,9 +25,11 @@
 ## 3. JSP Scripting Elements
 <ol>
   <li><a href="https://www.javatpoint.com/jsp-scriptlet-tag">JSP Scriptlet tag</a></li>
-  <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/jsp_scriplet_tag_syntax.png" alt="jsp scriplet syntax">
+  <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/jsp_scriplet_tag_syntax.png" alt="jsp scriplet tag syntax">
   <li><a href="https://www.javatpoint.com/jsp-expression-tag">JSP expression tag</a></li>
+  <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/jsp_expression_tag_syntax.png" alt="jsp expression tag syntax">
   <li><a href="https://www.javatpoint.com/jsp-declaration-tag">JSP Declaration Tag</a></li>
+  <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/jsp_declaration_tag_syntax.png" alt="jsp scriplet syntax">  
 </ol>
 
 ![Diff JSP Scriplet and Declaration Tag](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/Diff_JSP_Scriplet_Delcaration_Tag.png)
