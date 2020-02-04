@@ -65,10 +65,11 @@
       <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/jsp-implicit-object-config-sample-code.png" alt="jsp config sample code image">
     </kbd>
   <li><a href="https://www.javatpoint.com/application-implicit-object">application</a></li>
-    This object can be used to get initialization parameter from configuaration file (web.xml)<br/>
-    It can also be used to get, set or remove attribute from the application scope<br/>
+    This object can be used to get initialization parameter from configuaration file (web.xml).<br/>
+    It can also be used to get, set or remove attribute from the application scope.<br/>
   <li><a href="https://www.javatpoint.com/session-implicit-object">session</a></li>
-    In JSP, session is an implicit object of type HttpSession.The Java developer can use this object to set,get or remove attribute or to get session information.
+    In JSP, session is an implicit object of type HttpSession.<br/>
+    The Java developer can use this object to set,get or remove attribute or to get session information.<br/>
   <li>pageContext</li>
   <li>page</li>
   <li>exception</li>
