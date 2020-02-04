@@ -48,7 +48,7 @@
 
 <ul>
   <li><a href="https://www.javatpoint.com/jsp-implicit-objects">out</a></li>
-  <li>request</li>
+  <li><a href="https://www.javatpoint.com/request-implicit-object">request</a></li>
   <li>response</li>
   <li>config</li>
   <li>application</li>
