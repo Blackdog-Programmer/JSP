@@ -22,14 +22,14 @@
 
 ![JSP to Servelet Trasition Process](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/JSP-to-Servlet-Transition.png)
 
-![Diff JSP Scriplet and Declaration Tag](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/Diff_JSP_Scriplet_Delcaration_Tag.png)
-
 ## 3. JSP Scripting Elements
 <ol>
   <li><a href="https://www.javatpoint.com/jsp-scriptlet-tag">JSP Scriptlet tag</a></li>
   <li><a href="https://www.javatpoint.com/jsp-expression-tag">JSP expression tag</a></li>
   <li><a href="https://www.javatpoint.com/jsp-declaration-tag">JSP Declaration Tag</a></li>
 </ol>
+
+![Diff JSP Scriplet and Declaration Tag](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/Diff_JSP_Scriplet_Delcaration_Tag.png)
 
 # Q/A
 [Difference Between JSP vs JavaScript](https://www.educba.com/jsp-vs-javascript/)\
