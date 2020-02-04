@@ -52,8 +52,14 @@
     <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/jsp-implicit-object-out-sample-code.png" alt="jsp out sample code image">
   </kbd>  
   <li><a href="https://www.javatpoint.com/request-implicit-object">request</a></li>
+  <kbd>
+    <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/jsp-implicit-object-request-sample-code.png" alt="jsp request sample code image">
+  </kbd>
   <li><a href="https://www.javatpoint.com/response-implicit-object">response<a></li>
   <li><a href="https://www.javatpoint.com/config-implicit-object">config</a></li>
+  <kbd>
+    <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/jsp-implicit-object-config-sample-code.png" alt="jsp config sample code image">
+   </kbd>
   <li>application</li>
   <li>session</li>
   <li>pageContext</li>
