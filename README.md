@@ -13,7 +13,7 @@
     <li><a href="https://www.javatpoint.com/jsp-tutorial">Life Cycle of JSP</a></li>
     <li><a href="https://www.javatpoint.com/jsp-api">JSP APIs</a>
       <ol>
-        <li>javax.servlet.jsp pacakges</li>
+        <li><a href="https://docs.oracle.com/javaee/7/api/javax/servlet/jsp/package-summary.html">javax.servlet.jsp pacakges</a></li>
         <li>javax.servlet.jsp.tagext packages</li>
       </ol>
     </li>
