@@ -60,7 +60,7 @@
       <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/jsp-implicit-object-response-sample-code.png" alt="jsp response sample code image">
     </kbd>
   <li><a href="https://www.javatpoint.com/config-implicit-object">config</a></li>
-  <h5>Generally, it is used to get initialization parameter from the web.xml file</h5>
+  Generally, it is used to get initialization parameter from the web.xml file<br/>
     <kbd>
       <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/jsp-implicit-object-config-sample-code.png" alt="jsp config sample code image">
     </kbd>
