@@ -41,3 +41,17 @@
 </ol>
 
 ![Diff JSP Scriplet and Declaration Tag](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/Diff_JSP_Scriplet_Delcaration_Tag.png)
+
+## 4. JSP Implicit Objects
+
+## 5. JSP directives
+
+## 6. Exception Handling in JSP
+
+## 7. JSP Action Tags
+
+## 8. Expression Language (EL) in JSP
+
+## 9. MVC in JSP
+
+## 10. JSTL (JSP Standard Tag Library)
