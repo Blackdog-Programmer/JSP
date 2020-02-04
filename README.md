@@ -46,6 +46,18 @@
 
 ![JSP 9 Implicit Objects](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/JSP_9_Implicit_Objects.png)
 
+<ul>
+  <li>out</li>
+  <li>request</li>
+  <li>response</li>
+  <li>config</li>
+  <li>application</li>
+  <li>session</li>
+  <li>pageContext</li>
+  <li>page</li>
+  <li>exception</li>
+</ul>
+  
 ## 5. JSP directives
 
 ## 6. Exception Handling in JSP
