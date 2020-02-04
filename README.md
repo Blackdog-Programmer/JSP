@@ -8,6 +8,7 @@
 
 ## 2. JSP Introduction
 
+![JSP to Servelet Trasition Process](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/JSP-to-Servlet-Transition.png)
 
 # Q/A
 [Difference Between JSP vs JavaScript](https://www.educba.com/jsp-vs-javascript/)\
