@@ -44,6 +44,8 @@
 
 ## 4. JSP Implicit Objects
 
+![JSP 9 Implicit Objects](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/JSP_9_Implicit_Objects.png)
+
 ## 5. JSP directives
 
 ## 6. Exception Handling in JSP
