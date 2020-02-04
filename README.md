@@ -6,8 +6,7 @@
 [Java Point - Learn JSP](https://www.javatpoint.com/jsp-tutorial)\
 [Java Point - Learn Servlet](https://www.javatpoint.com/servlet-tutorial)
 
-## [2. JSP Introduction](https://www.javatpoint.com/jsp-tutorial)
-
+## 2. JSP Introduction
 <ol>
   <ul>
     <li><a href="https://www.javatpoint.com/jsp-tutorial">Life Cycle of JSP</a></li>
@@ -22,6 +21,13 @@
 </ol>
 
 ![JSP to Servelet Trasition Process](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/JSP-to-Servlet-Transition.png)
+
+## 3. JSP Scripting Elements
+<ol>
+  <li><a href="https://www.javatpoint.com/jsp-scriptlet-tag">JSP Scriptlet tag</a></li>
+  <li><a href="https://www.javatpoint.com/jsp-expression-tag">JSP expression tag</a></li>
+  <li><a href="https://www.javatpoint.com/jsp-declaration-tag">JSP Declaration Tag</a></li>
+</ol>
 
 # Q/A
 [Difference Between JSP vs JavaScript](https://www.educba.com/jsp-vs-javascript/)\
