@@ -6,7 +6,20 @@
 [Java Point - Learn JSP](https://www.javatpoint.com/jsp-tutorial)\
 [Java Point - Learn Servlet](https://www.javatpoint.com/servlet-tutorial)
 
-## 2. JSP Introduction
+## [2. JSP Introduction](https://www.javatpoint.com/jsp-tutorial)
+
+<ol>
+  <ul>
+    <li><a href="https://www.javatpoint.com/jsp-tutorial">Life Cycle of JSP</a></li>
+    <li><a href="https://www.javatpoint.com/jsp-api">JSP APIs</a>
+      <ol>
+        <li>javax.servlet.jsp pacakges</li>
+        <li>javax.servlet.jsp.tagext packages</li>
+      </ol>
+    </li>
+    <li><a href="https://www.javatpoint.com/creating-jsp-in-eclipse-ide">JSP in Eclipse</a></li>
+  </ul>
+</ol>
 
 ![JSP to Servelet Trasition Process](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/JSP-to-Servlet-Transition.png)
 
