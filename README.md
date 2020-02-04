@@ -47,7 +47,7 @@
 ![JSP 9 Implicit Objects](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/JSP_9_Implicit_Objects.png)
 
 <ul>
-  <li>out</li>
+  <li><a href="https://www.javatpoint.com/jsp-implicit-objects">out</a></li>
   <li>request</li>
   <li>response</li>
   <li>config</li>
