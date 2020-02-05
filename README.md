@@ -1,13 +1,13 @@
 ## 0. Articles
 <ul>
-  <li><a href="https://real-world-java-ee.zeef.com/arjan.tijms">Real World Java EE</a><li>
-  <li><a href="www.oracle.com/technetwork/java/javaee/tech/index.html">Oracle support JSP Servlet in JAVA EE</a><li>
-  <li><a href="https://www.educba.com/jsp-vs-javascript/">Difference Between JSP vs JavaScript</a><li>
-  <li><a href="https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work\">What are sessions? How do they work?</a><li>
-  <li><a href="http://www.whatarecookies.com/">What is Cookie?</a><li>
-  <li><a href="https://en.wikipedia.org/wiki/Single_sign-on">What is Single_sign-on</a><li>
-  <li><a href="https://www.quora.com/What-is-the-difference-between-Java-servlets-and-JSP">JSP vs Servlet</a><li>
-  <li><a href="https://www.javatpoint.com/MVC-in-jsp">What is MVC in JSP</a><li>
+  <li><a href="https://real-world-java-ee.zeef.com/arjan.tijms">Real World Java EE</a></li>
+  <li><a href="www.oracle.com/technetwork/java/javaee/tech/index.html">Oracle support JSP Servlet in JAVA EE</a></li>
+  <li><a href="https://www.educba.com/jsp-vs-javascript/">Difference Between JSP vs JavaScript</a></li>
+  <li><a href="https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work\">What are sessions? How do they work?</a></li>
+  <li><a href="http://www.whatarecookies.com/">What is Cookie?</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Single_sign-on">What is Single_sign-on</a></li>
+  <li><a href="https://www.quora.com/What-is-the-difference-between-Java-servlets-and-JSP">JSP vs Servlet</a></li>
+  <li><a href="https://www.javatpoint.com/MVC-in-jsp">What is MVC in JSP</a></li>
 </ul>
 
 ## 1. References
