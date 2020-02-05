@@ -29,7 +29,7 @@
 </ol>
 
 <kbd>
-![JSP to Servelet Trasition Process](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/JSP-to-Servlet-Transition.png)
+<img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/JSP-to-Servlet-Transition.png" alt="JSP to Servelet Trasition Process">
 </kbd>
 
 ## 3. JSP Scripting Elements
