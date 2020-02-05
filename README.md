@@ -108,8 +108,9 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
       <li><strong>isErrorPage:</strong> The isErrorPage attribute is used to declare that the current page is the error page.</li><br>
     </ul>
   </li>   
-  <li>include directive</li>
-  <li>taglib directive</li>
+  <li><a href="https://www.javatpoint.com/jsp-include-directive">include directive</a></li>
+    The include directive is used to include the contents of any resource it may be jsp file, html file or text file.
+  <li><a href="">taglib directive</a></li>
 </ul>
 
 ## 6. Exception Handling in JSP
