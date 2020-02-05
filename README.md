@@ -117,14 +117,20 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
 </ul>
 
 ## 6. Exception Handling in JSP
-<p>
-  The Expression Language (EL) simplifies the accessibility of data stored in the Java Bean component, and other objects like request, session, application etc
-</p>  
+
 
 ## 7. JSP Action Tags
 
+
 ## 8. Expression Language (EL) in JSP
+<p>
+  The Expression Language (EL) simplifies the accessibility of data stored in the Java Bean component, and other objects like request, session, application etc
+</p>
+<ul><a href="https://www.javatpoint.com/EL-expression-in-jsp">Implicit Objects in Expression Language (EL)</a>
+  <li>TMP</li>
+<ul>
 
 ## 9. MVC in JSP
+
 
 ## 10. JSTL (JSP Standard Tag Library)
