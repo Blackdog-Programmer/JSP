@@ -57,10 +57,10 @@
   <li><a href="https://www.javatpoint.com/request-implicit-object">request</a></li>
   <li><a href="https://www.javatpoint.com/response-implicit-object">response<a></li>
   <li><a href="https://www.javatpoint.com/config-implicit-object">config</a></li>
-    Generally, it is used to get initialization parameter from the web.xml file<br/>
+    Generally, it is used to get initialization parameter from the web.xml file<br><br>
   <li><a href="https://www.javatpoint.com/application-implicit-object">application</a></li>
-    This object can be used to get initialization parameter from configuaration file (web.xml).<br/>
-    It can also be used to get, set or remove attribute from the application scope.<br/>
+    This object can be used to get initialization parameter from configuaration file (web.xml).<br>
+    It can also be used to get, set or remove attribute from the application scope.<br><br>
   <li><a href="https://www.javatpoint.com/session-implicit-object">session</a></li>
     <a href="https://www.computerhope.com/jargon/s/session.htm">What is Websession</a></li>
     In JSP, session is an implicit object of type HttpSession.<br/>
