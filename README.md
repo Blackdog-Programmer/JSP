@@ -126,7 +126,7 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
 <p>
   The Expression Language (EL) simplifies the accessibility of data stored in the Java Bean component, and other objects like request, session, application etc
 </p>
-<ul><a href="https://www.javatpoint.com/EL-expression-in-jsp">Implicit Objects in Expression Language (EL)</a>
+<ul><a href="https://www.javatpoint.com/EL-expression-in-jsp">Implicit Objects in Expression Language (EL)</a><br>
   <kbd>
     <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Expression-Language/Expression-Language-Syntax.png" alt="JSP Expression Langue Syntax Image">
   </kbd><br>
