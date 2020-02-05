@@ -68,8 +68,10 @@
   <li><a href="https://www.javatpoint.com/pageContext-implicit-object">pageContext</a></li>
     In JSP, pageContext is an implicit object of type PageContext class.</br>
     The pageContext object can be used to set,get or remove attribute from 'page', 'request', 'session', 'application'<br>
-  <li>page</li>
-  <li>exception</li>
+  <li><a href="https://www.javatpoint.com/page-implicit-object">page</a></li><br>
+  <li><a href="https://www.javatpoint.com/exception-implicit-object">exception</a></li>
+    In JSP, exception is an implicit object of type java.lang.Throwable class.<br>
+    This object can be used to print the exception. But it can only be used in error pages.
 </ul>
   
 ## 5. JSP directives
