@@ -5,8 +5,10 @@
 <body>
 
 	Your Name: ${param.firstName} ${param.lastName}<br><br> 
-	Your Country: ${param.Country}
 	
+	Your Country: ${param.Country}<br><br>
+	
+	Your Favorite Programming Language: ${param.language}
 </body>
 
 </html>
