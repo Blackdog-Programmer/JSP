@@ -132,7 +132,7 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
   </kbd><br>
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Expression-Language/Implicit-Objects-in-Expression-Language.png" alt="JSP Expression Language Objects List">
-  </kbd>                                                                                                 
+</kbd>                                                                                                 
 
 ## 9. MVC in JSP
 
