@@ -95,8 +95,8 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
       <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/directives/jsp_directive_page_syntax.png" alt="page directive syntax image">
     </kbd><br>
     <ul> 
-      <li>import: The import attribute is used to import class,interface or all the members of a package.It is similar to import keyword in java class or interface.</li>
-      <li>contentType</li>
+      <li><strong>import</strong>: The import attribute is used to import class,interface or all the members of a package.</li>
+      <li><strong>contentType</strong>: The contentType attribute defines the MIME(Multipurpose Internet Mail Extension) type of the HTTP response</li>
       <li>extends</li>
       <li>info</li>
       <li>buffer</li>
