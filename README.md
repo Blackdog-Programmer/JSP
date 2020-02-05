@@ -54,7 +54,9 @@
 
 ## 4. JSP Implicit Objects
 
-![JSP 9 Implicit Objects](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/JSP_9_Implicit_Objects.png)
+<kbd>
+<img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Implicit-Objects/JSP_9_Implicit_Objects.png" alt="JSP 9 Implicit Objects">
+</kbd>
 
 <ul>
   <li><a href="https://www.javatpoint.com/jsp-implicit-objects">out</a></li>
