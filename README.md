@@ -28,7 +28,9 @@
   </ul>
 </ol>
 
+<kbd>
 ![JSP to Servelet Trasition Process](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/JSP-to-Servlet-Transition.png)
+</kbd>
 
 ## 3. JSP Scripting Elements
 <ol>
