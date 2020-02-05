@@ -90,7 +90,8 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
 </kbd> 
 
 <ul>
-  <li>page directive</li>
+  <li><a href="https://www.javatpoint.com/jsp-page-directive">page directive</a></li>
+  Attribute LiST: import, contentType, extends, info, buffer, language, isELIgnored, isThreadSafe, autoFlush, session, pageEncoding, errorPage, isErrorPage
   <li>include directive</li>
   <li>taglib directive</li>
 </ul>
