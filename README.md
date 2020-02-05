@@ -64,10 +64,10 @@
   <li><a href="https://www.javatpoint.com/session-implicit-object">session</a></li>
     <a href="https://www.computerhope.com/jargon/s/session.htm">What is Websession</a></li>
     In JSP, session is an implicit object of type HttpSession.<br/>
-    The Java developer can use this object to set,get or remove attribute or to get session information.<br/>
+    The Java developer can use this object to set,get or remove attribute or to get session information.<br><br>
   <li><a href="https://www.javatpoint.com/pageContext-implicit-object">pageContext</a></li>
     In JSP, pageContext is an implicit object of type PageContext class.</br>
-    The pageContext object can be used to set,get or remove attribute from 'page', 'request', 'session', 'application'</br>
+    The pageContext object can be used to set,get or remove attribute from 'page', 'request', 'session', 'application'<br>
   <li>page</li>
   <li>exception</li>
 </ul>
