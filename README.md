@@ -84,6 +84,11 @@
   
 ## 5. JSP directives
 The <strong>jsp directives</strong> are messages that tells the web container how to translate a JSP page into the corresponding servlet<br>
+
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/directives/jsp_directive_syntax.png" alt="jsp directive syntax image">
+</kbd> 
+
 <ul>
   <li>page directive</li>
   <li>include directive</li>
