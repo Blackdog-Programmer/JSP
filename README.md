@@ -112,7 +112,7 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
     <kbd>
       <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/directives/jsp_directive_include_syntax.png" alt="jsp include directive syntax">
     </kbd><br>
-    Code Reusability: The include directive is used to include the contents of any resource it may be jsp file, html file or text file. 
+    The include directive is used to include the contents of any resource it may be jsp file, html file or text file.<br>
   <li><a href="">taglib directive</a></li>
 </ul>
 
