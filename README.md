@@ -87,22 +87,25 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
 
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/directives/jsp_directive_syntax.png" alt="jsp directive syntax image">
-</kbd> 
+</kbd><br><br>
 
 <ul>
-  <li><a href="https://www.javatpoint.com/jsp-page-directive">page directive</a>
+  <li><a href="https://www.javatpoint.com/jsp-page-directive">page directive</a><br>
+    <kbd>
+      <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/directives/jsp_directive_page_syntax.png" alt="page directive syntax image">
+    </kbd><br>
     <ul> 
-      <li>import</li>
-      <li>contentType</li>
-      <li>extends</li>
-      <li>info</li>
-      <li>buffer</li>
-      <li>language</li>
-      <li>isELIgnored</li>
-      <li>isThreadSafe</li>
-      <li>pageEncoding</li>
-      <li>errorPage</li>
-      <li>isErrorPage</li>
+      <li><strong>import</strong>: The import attribute is used to import class, interface or all the members of a package.</li>
+      <li><strong>contentType</strong>: The contentType attribute defines the MIME(Multipurpose Internet Mail Extension) type of the HTTP response</li>
+      <li><strong>extends</strong></li>
+      <li><strong>info</strong></li>
+      <li><strong>buffer</strong></li>
+      <li><strong>language</strong></li>
+      <li><strong>isELIgnored</strong></li>
+      <li><strong>isThreadSafe</strong></li>
+      <li><strong>pageEncoding</strong></li>
+      <li><strong>errorPage</strong></li>
+      <li><strong>isErrorPage</strong></li>
     </ul>
   </li>   
   <li>include directive</li>
