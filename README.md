@@ -11,8 +11,10 @@
 </ul>
 
 ## 1. References
-[Java Point - Learn JSP](https://www.javatpoint.com/jsp-tutorial)\
-[Java Point - Learn Servlet](https://www.javatpoint.com/servlet-tutorial)
+<ul>
+  <li><a href="https://www.javatpoint.com/jsp-tutorial">Java Point - Learn JSP</a></li>
+  <li><a href="https://www.javatpoint.com/servlet-tutorial">Java Point - Learn Servlet</a></li>
+</ul>
 
 ## 2. JSP Introduction
 <ol>
