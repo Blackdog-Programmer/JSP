@@ -4,7 +4,8 @@
 
 <body>
 
-	The student is confirmed: ${param.firstName} ${param.lastName}
+	Your Name: ${param.firstName} ${param.lastName}<br><br> 
+	Your Country: ${param.Country}
 	
 </body>
 
