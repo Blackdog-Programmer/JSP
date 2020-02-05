@@ -81,6 +81,11 @@
 </ul>
   
 ## 5. JSP directives
+<ul>
+  <li>page directive</li>
+  <li>include directive</li>
+  <li>taglib directive</li>
+</ul>
 
 ## 6. Exception Handling in JSP
 
