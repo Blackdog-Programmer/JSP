@@ -97,8 +97,8 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
     <ul> 
       <li><strong>import</strong>: The import attribute is used to import class, interface or all the members of a package.</li>
       <li><strong>contentType</strong>: The contentType attribute defines the MIME(Multipurpose Internet Mail Extension) type of the HTTP response</li>
-      <li><strong>extends</strong></li>
-      <li><strong>info</strong></li>
+      <li><strong>extends: The extends attribute defines the parent class that will be inherited by the generated servlet.It is rarely used.</strong></li>
+      <li><strong>info: This attribute simply sets the information of the JSP page which is retrieved later by using getServletInfo() method of Servlet interface.</strong></li>
       <li><strong>buffer</strong></li>
       <li><strong>language</strong></li>
       <li><strong>isELIgnored</strong></li>
