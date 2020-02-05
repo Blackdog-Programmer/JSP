@@ -48,7 +48,9 @@
     </kbd>
 </ol>
 
-![Diff JSP Scriplet and Declaration Tag](https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/Diff_JSP_Scriplet_Delcaration_Tag.png)
+<kbd>
+<img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSP-Fundamentals/Diff_JSP_Scriplet_Delcaration_Tag.png", alt="Diff JSP Scriplet and Declaration Tag">
+</kbd>
 
 ## 4. JSP Implicit Objects
 
