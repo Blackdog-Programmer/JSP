@@ -109,7 +109,7 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
     </ul>
   </li>   
   <li><a href="https://www.javatpoint.com/jsp-include-directive">include directive</a></li>
-    The include directive is used to include the contents of any resource it may be jsp file, html file or text file.
+    Code Reusability: The include directive is used to include the contents of any resource it may be jsp file, html file or text file. 
   <li><a href="">taglib directive</a></li>
 </ul>
 
