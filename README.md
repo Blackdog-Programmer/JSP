@@ -83,6 +83,7 @@
 </ul>
   
 ## 5. JSP directives
+<h2>The jsp directives are messages that tells the web container how to translate a JSP page into the corresponding servlet</h2>
 <ul>
   <li>page directive</li>
   <li>include directive</li>
