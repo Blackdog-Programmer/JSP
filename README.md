@@ -93,7 +93,7 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
   <li><a href="https://www.javatpoint.com/jsp-page-directive">page directive</a><br>
     <kbd>
       <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/directives/jsp_directive_page_syntax.png" alt="page directive syntax image">
-    </kbd><br>
+    </kbd><br><br>
     <ul> 
       <li>import</li>
       <li>contentType</li>
