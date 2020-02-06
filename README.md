@@ -176,7 +176,21 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Expression-Language/Implicit-Objects-in-Expression-Language.png" alt="JSP Expression Language Objects List">
 </kbd>                                                                                                 
 
-## 9. MVC in JSP
+## [9. MVC in JSP](https://www.javatpoint.com/MVC-in-jsp)
 
 
-## 10. JSTL (JSP Standard Tag Library)
+## [10. JSTL (JSP Standard Tag Library)](https://www.javatpoint.com/jstl)
+
+## 11. JSP Custom Tags
+
+## [12. JSP Pagination](https://www.javatpoint.com/pagination-in-jsp)
+
+## [13. JSP CRUD](https://www.javatpoint.com/crud-in-jsp)
+
+## 14. Development in JSP
+<ul>
+  <li>Registration Form</li>
+  <li>Login Form</li>
+  <li>Uploading File</li>
+  <li>Downloading File</li>
+</ul>
