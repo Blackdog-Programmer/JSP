@@ -148,7 +148,7 @@ The action tags are used to control the flow between <strong>pages</strong> and 
     </ul>
   </li><br>
   
-  <li><a href="https://www.javatpoint.com/java-bean">Java Bean Class</a>
+  <li><a href="https://www.javatpoint.com/java-bean">Java Bean Class</a><br>
   A JavaBean is a Java class that should follow the following conventions:
     <ul>
       <li>It should have a no-arg constructor.</li>
