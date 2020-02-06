@@ -129,7 +129,14 @@ The exception is normally an object that is thrown at runtime. Exception Handlin
 </ol>
 
 ## 7. JSP Action Tags
-
+<ul>
+  <li><a href="https://www.javatpoint.com/jsp-action-tags-forward-action">jsp:forward</a></li>
+  <li><a href="https://www.javatpoint.com/jsp-include-action">jsp:include action tag</a></li>
+  <li><a href="https://www.javatpoint.com/java-bean">Java Bean Class</a></li>
+  <li><a href="https://www.javatpoint.com/jsp-useBean-action">jsp:useBean action tag</a></li>
+  <li><a href="https://www.javatpoint.com/jsp-setProperty-and-jsp-getProperty-action-tag">jsp:setProperty and jsp:getProperty</a></li>
+  <li><a href="https://www.javatpoint.com/displaying-applet-in-jsp">Displaying applet in JSP (jsp:plugin action tag)</a></li>
+</ul>
 
 ## 8. Expression Language (EL) in JSP
 <p>
