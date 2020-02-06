@@ -136,10 +136,21 @@ The action tags are used to control the flow between <strong>pages</strong> and 
 
 <ul>
   <li><a href="https://www.javatpoint.com/jsp-action-tags-forward-action">jsp:forward</a></li>
-  <li><a href="https://www.javatpoint.com/jsp-include-action">jsp:include action tag</a></li>
+  <kbd>
+    <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Actions-Tags/jsp-forward-tag-with-parameter-syntax.png" alt="jsp forward action tag syntax image">
+  </kbd><br>
+  
+  <li><a href="https://www.javatpoint.com/jsp-include-action">jsp:include action tag</a></li><br>
+  The jsp:include action tag is used to include the content of another resource it may be jsp, html or servlet.<br>
+  The jsp include action tag includes the resource at request time so it is better for dynamic pages because there might be changes in future.<br>
+  The jsp:include tag can be used to include static as well as dynamic pages.<br>
+  
   <li><a href="https://www.javatpoint.com/java-bean">Java Bean Class</a></li>
+  
   <li><a href="https://www.javatpoint.com/jsp-useBean-action">jsp:useBean action tag</a></li>
+  
   <li><a href="https://www.javatpoint.com/jsp-setProperty-and-jsp-getProperty-action-tag">jsp:setProperty and jsp:getProperty</a></li>
+  
   <li><a href="https://www.javatpoint.com/displaying-applet-in-jsp">Displaying applet in JSP (jsp:plugin action tag)</a></li>
 </ul>
 
