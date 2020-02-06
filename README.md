@@ -129,7 +129,7 @@ The exception is normally an object that is thrown at runtime. Exception Handlin
 </ol>
 
 ## 7. JSP Action Tags
-The action tags are used to control the flow between pages and to use Java Bean.<br>
+The action tags are used to control the flow between <strong>pages</strong> and to use <strong>Java Bean</strong><br>
 
 <kbd>
 <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Actions-Tags/jsp-action-tags-list.png" alt="jsp action tags list table image">
