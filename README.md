@@ -132,7 +132,7 @@ The action tags are used to control the flow between <strong>pages</strong> and 
 
 <kbd>
 <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Actions-Tags/jsp-action-tags-list.png" alt="jsp action tags list table image">
-</kbd><br>
+</kbd><br><br>
 
 <ul>
   <li><a href="https://www.javatpoint.com/jsp-action-tags-forward-action">jsp:forward</a></li>
