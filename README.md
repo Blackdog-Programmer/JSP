@@ -111,10 +111,10 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
   <li><a href="https://www.javatpoint.com/jsp-include-directive">include directive</a></li>
     <kbd>
       <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/directives/jsp_directive_include_syntax.png" alt="jsp include directive syntax">
-    </kbd><br><br>
+    </kbd><br>
     The include directive is used to include the contents of any resource it may be jsp file, html file or text file.<br>
   <li><a href="https://www.javatpoint.com/jsp-taglib-directive">taglib directive</a></li>
-    The JSP taglib directive is used to define a tag library that defines many tags.<br>
+    The JSP taglib directive is used to define a tag library that defines many tags.<br><br>
     <kbd>
       <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/directives/jsp_directive_taglib_syntax.png" alt="jsp taglib directive syntax image">
     </kbd>
