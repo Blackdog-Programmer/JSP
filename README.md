@@ -120,8 +120,7 @@ The <strong>jsp directives</strong> are messages that tells the web container ho
     </kbd>
 </ul>
 
-## 6. Exception Handling in JSP
-<a href="https://www.javatpoint.com/exception-handling-in-jsp">Exception Handling in JSP</a><br>
+## [6. Exception Handling in JSP](https://www.javatpoint.com/exception-handling-in-jsp)
 The exception is normally an object that is thrown at runtime. Exception Handling is the process to handle the runtime errors.<br>
 <ol>
   <li>By errorPage and isErrorPage attributes of page directive</li>
