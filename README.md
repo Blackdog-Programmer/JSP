@@ -141,11 +141,11 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   </kbd><br><br>
   
   <li><a href="https://www.javatpoint.com/jsp-include-action">jsp:include action tag</a>
-    <ol>
+    <ul>
       <li>The jsp:include action tag is used to include the content of another resource it may be jsp, html or servlet.</li>
       <li>The jsp include action tag includes the resource at request time so it is better for dynamic pages because there might be changes in future.</li>
       <li>The jsp:include tag can be used to include static as well as dynamic pages.</li>
-    </ol>
+    </ul>
   </li><br>
   
   <li><a href="https://www.javatpoint.com/java-bean">Java Bean Class</a>
