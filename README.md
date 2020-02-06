@@ -127,6 +127,7 @@ The exception is normally an object that is thrown at runtime. Exception Handlin
   <li>By errorPage and isErrorPage attributes of page directive</li>
   <li>By <error-page> element in web.xml file</li>
 </ol>
+
 ## 7. JSP Action Tags
 
 
