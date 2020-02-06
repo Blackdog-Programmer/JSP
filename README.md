@@ -164,11 +164,11 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   <li><a href="https://www.javatpoint.com/displaying-applet-in-jsp">Displaying applet in JSP (jsp:plugin action tag)</a></li>
 </ul>
 
-## 8. Expression Language (EL) in JSP
+## [8. Expression Language (EL) in JSP](https://www.javatpoint.com/EL-expression-in-jsp)
 <p>
   The Expression Language (EL) simplifies the accessibility of data stored in the Java Bean component, and other objects like request, session, application etc
 </p>
-<a href="https://www.javatpoint.com/EL-expression-in-jsp">Implicit Objects in Expression Language (EL)</a><br>
+
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Expression-Language/Expression-Language-Syntax.png" alt="JSP Expression Langue Syntax Image">
   </kbd><br>
@@ -181,11 +181,15 @@ The action tags are used to control the flow between <strong>pages</strong> and 
 
 ## [10. JSTL (JSP Standard Tag Library)](https://www.javatpoint.com/jstl)
 
+
 ## 11. JSP Custom Tags
+
 
 ## [12. JSP Pagination](https://www.javatpoint.com/pagination-in-jsp)
 
+
 ## [13. JSP CRUD](https://www.javatpoint.com/crud-in-jsp)
+
 
 ## 14. Development in JSP
 <ul>
