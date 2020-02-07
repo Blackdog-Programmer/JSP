@@ -195,15 +195,15 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSTL/JSTL_5_types_tags_list.png" alt="JSTP 5 tag type list talbe">
 </kbd><br><br>
 
-<a href="https://mvnrepository.com/artifact/org.glassfish.web/javax.servlet.jsp.jstl/1.2.5">javax.servlet.jsp.jstl-1.2.5.jar</a>
-<p>
-This contains the JSTL API interfaces and support classes. However a large number of the interfaces do not have implementation classes.
-</p>
+<ul>
+  <li><a href="https://mvnrepository.com/artifact/org.glassfish.web/javax.servlet.jsp.jstl/1.2.5">javax.servlet.jsp.jstl-1.2.5.jar</a></li>
+  <p>
+    This contains the JSTL API interfaces and support classes. However a large number of the interfaces do not have implementation classes.
+  </p>
 
-<a href="https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.2">javax.servlet.jsp.jstl-api-1.2.2.jar</a>
-<p>
-This contains an implementation of the JSTL API. This code implements all of the interface from the API above.
-</p>
+  <li><a href="https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.2">javax.servlet.jsp.jstl-api-1.2.2.jar</a></li>
+  <p>This contains an implementation of the JSTL API. This code implements all of the interface from the API above.</p>
+</ul>
 
 ## 11. JSP Custom Tags
 
