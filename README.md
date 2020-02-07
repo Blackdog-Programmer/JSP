@@ -180,7 +180,11 @@ The action tags are used to control the flow between <strong>pages</strong> and 
 
 
 ## [10. JSTL (JSP Standard Tag Library)](https://www.javatpoint.com/jstl)
-
+<ul>
+  <li>Fast Development JSTL provides many tags that simplify the JSP.</li>
+  <li>Code Reusability We can use the JSTL tags on various pages.</li>
+  <li>No need to use scriptlet tag It avoids the use of scriptlet tag.</li>
+</ul>
 
 ## 11. JSP Custom Tags
 
