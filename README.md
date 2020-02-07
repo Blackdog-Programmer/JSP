@@ -165,8 +165,22 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   </kbd><br><br>
   
   <li><a href="https://www.javatpoint.com/jsp-setProperty-and-jsp-getProperty-action-tag">jsp:setProperty and jsp:getProperty</a></li>
+  <p>The setProperty and getProperty action tags are used for developing web application with Java Bean. In web devlopment, bean class is mostly used because it is a reusable software component that represents data.</p>
+  
+  <kbd>
+    <img src="https://github.com/Blackdog-Programmer/JSP-JSTL/blob/master/reference/Actions-Tags/jsp-setProperty-action-tag-syntax.png" alt="jsp:setProperty action tag image">
+  </kbd><br><br>
+  
+  <kbd>
+    <img src="https://github.com/Blackdog-Programmer/JSP-JSTL/blob/master/reference/Actions-Tags/jsp-getProperty-action-tag-syntax.png" alt="jsp:getProperty action tag image">
+  </kbd><br><br>
   
   <li><a href="https://www.javatpoint.com/displaying-applet-in-jsp">Displaying applet in JSP (jsp:plugin action tag)</a></li>
+  <p>The jsp:plugin action tag is used to embed applet in the jsp file. The jsp:plugin action tag downloads plugin at client side to execute an applet or bean.</p>
+  
+  <kbd>
+    <img src="https://github.com/Blackdog-Programmer/JSP-JSTL/blob/master/reference/Actions-Tags/jsp-plugin-action-tag-syntax.png" alt="jsp:plugin action tag syntax image">
+  </kbd><br><br>
 </ul>
 
 ## [8. Expression Language (EL) in JSP](https://www.javatpoint.com/EL-expression-in-jsp)
