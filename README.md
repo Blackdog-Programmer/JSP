@@ -189,6 +189,10 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   4. <strong>View</strong> represents the presentaion i.e. UI(User Interface).
 </p>
 
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/JSP-JSTL/blob/master/reference/MVC/MVC_Architecture.png" alt="MVC Architecture">
+</kbd><br><br>
+
 ## [10. JSTL (JSP Standard Tag Library)](https://www.javatpoint.com/jstl)
 <ul>
   <li>Fast Development JSTL provides many tags that simplify the JSP.</li>
