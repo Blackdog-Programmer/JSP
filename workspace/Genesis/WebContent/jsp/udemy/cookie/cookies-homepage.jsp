@@ -1,3 +1,4 @@
+<%@ page import="java.net.*" %>
 <html>
 
 <head><title>Cookies Demo</title></head>
@@ -14,7 +15,7 @@
 	if (theCookies != null) {
 		for(Cookie temp : theCookies) {
 			if ("myApp.favoriteLanguage".equals(temp.getName())) {
-				favoriteLanguage = temp.getValue();
+				favoriteLanguage = URLDecoder.decode(temp.getValue(), "UTF-8");
 				break;
 			}
 		}
