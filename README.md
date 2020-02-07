@@ -187,7 +187,7 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   Controller acts as an interface between View and Model. Controller intercepts all the incoming requests.
   Model represents the state of the application i.e. data. It can also have business logic.
   View represents the presentaion i.e. UI(User Interface).
-<p>
+</p>
 
 ## [10. JSTL (JSP Standard Tag Library)](https://www.javatpoint.com/jstl)
 <ul>
