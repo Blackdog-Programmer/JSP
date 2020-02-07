@@ -160,6 +160,10 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   <li><a href="https://www.javatpoint.com/jsp-useBean-action">jsp:useBean action tag</a></li>
   <p>The jsp:useBean action tag is used to locate or instantiate a bean class. If bean object of the Bean class is already created, it doesn't create the bean depending on the scope. But if object of bean is not created, it instantiates the bean.</p>
   
+  <kbd>
+    <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/Actions-Tags/jsp-useBean-action-tag-syntax.png" alt="jsp:useBean action tag syntax">
+  </kbd><br><br>
+  
   <li><a href="https://www.javatpoint.com/jsp-setProperty-and-jsp-getProperty-action-tag">jsp:setProperty and jsp:getProperty</a></li>
   
   <li><a href="https://www.javatpoint.com/displaying-applet-in-jsp">Displaying applet in JSP (jsp:plugin action tag)</a></li>
