@@ -14,7 +14,8 @@
 	if (theCookies != null) {
 		for(Cookie temp : theCookies) {
 			if ("myApp.favoriteLanguage".equals(temp.getName())) {
-				favoriteLanguage = temp.getValue(); 
+				favoriteLanguage = temp.getValue();
+				break;
 			}
 		}
 	}
