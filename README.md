@@ -191,6 +191,10 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   <li>No need to use scriptlet tag It avoids the use of scriptlet tag.</li>
 </ul>
 
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/JSP-Servlet/blob/master/reference/JSTL/JSTL_5_types_tags_list.png" alt="JSTP 5 tag type list talbe">
+</kbd><br><br>
+
 ## 11. JSP Custom Tags
 
 
