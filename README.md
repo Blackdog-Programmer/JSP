@@ -204,20 +204,3 @@ The action tags are used to control the flow between <strong>pages</strong> and 
   <li><a href="https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.2">javax.servlet.jsp.jstl-api-1.2.2.jar</a></li>
   <p>This contains an implementation of the JSTL API. This code implements all of the interface from the API above.</p>
 </ul>
-
-## 11. JSP Custom Tags
-
-
-## [12. JSP Pagination](https://www.javatpoint.com/pagination-in-jsp)
-
-
-## [13. JSP CRUD](https://www.javatpoint.com/crud-in-jsp)
-
-
-## 14. Development in JSP
-<ul>
-  <li>Registration Form</li>
-  <li>Login Form</li>
-  <li>Uploading File</li>
-  <li>Downloading File</li>
-</ul>
