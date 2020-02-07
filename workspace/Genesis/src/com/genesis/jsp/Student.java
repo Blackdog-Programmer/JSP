@@ -4,13 +4,13 @@ public class Student {
 	
 	private String firstName;
 	private String lastName;
-	private boolean isGoldCustomer;
+	private boolean goldCustomer;
 	
-	public Student(String firstName, String lastName, boolean isGoldCustomer) {
+	public Student(String firstName, String lastName, boolean goldCustomer) {
 		super();
 		this.firstName = firstName;
 		this.lastName = lastName;
-		this.isGoldCustomer = isGoldCustomer;
+		this.goldCustomer = goldCustomer;
 	}
 
 	public String getFirstName() {
@@ -30,10 +30,11 @@ public class Student {
 	}
 
 	public boolean isGoldCustomer() {
-		return isGoldCustomer;
+		return goldCustomer;
 	}
 
-	public void setGoldCustomer(boolean isGoldCustomer) {
-		this.isGoldCustomer = isGoldCustomer;
+	public void setGoldCustomer(boolean goldCustomer) {
+		this.goldCustomer = goldCustomer;
 	}
+
 }
