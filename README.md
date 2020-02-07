@@ -183,10 +183,10 @@ The action tags are used to control the flow between <strong>pages</strong> and 
 
 ## [9. MVC in JSP](https://www.javatpoint.com/MVC-in-jsp)
 <p>
-  <strong>MVC</strong> stands for Model View and Controller. It is a <strong>design pattern</strong> that separates the business logic, presentation logic and data.<br>
-  <strong>Controller</strong> acts as an interface between View and Model. Controller intercepts all the incoming requests.<br>
-  <strong>Model</strong> represents the state of the application i.e. data. It can also have business logic.<br>
-  <strong>View</strong> represents the presentaion i.e. UI(User Interface).
+  1. <strong>MVC</strong> stands for Model View and Controller. It is a <strong>design pattern</strong> that separates the business logic, presentation logic and data.<br>
+  2. <strong>Controller</strong> acts as an interface between View and Model. Controller intercepts all the incoming requests.<br>
+  3. <strong>Model</strong> represents the state of the application i.e. data. It can also have business logic.<br>
+  4. <strong>View</strong> represents the presentaion i.e. UI(User Interface).
 </p>
 
 ## [10. JSTL (JSP Standard Tag Library)](https://www.javatpoint.com/jstl)
