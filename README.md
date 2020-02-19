@@ -1,5 +1,6 @@
 ## 0. Articles
 <ul>
+  <li><a href="https://stackoverflow.com/questions/101579/when-do-you-use-a-jsp-and-when-a-servlet">When do you use a JSP and when a Servlet? - stack overflow</a></li>
   <li><a href="https://real-world-java-ee.zeef.com/arjan.tijms">Real World Java EE</a></li>
   <li><a href="www.oracle.com/technetwork/java/javaee/tech/index.html">Oracle support JSP Servlet in JAVA EE</a></li>
   <li><a href="https://www.educba.com/jsp-vs-javascript/">Difference Between JSP vs JavaScript</a></li>
