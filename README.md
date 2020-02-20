@@ -9,6 +9,7 @@
   <li><a href="https://en.wikipedia.org/wiki/Single_sign-on">What is Single_sign-on</a></li>
   <li><a href="https://www.quora.com/What-is-the-difference-between-Java-servlets-and-JSP">JSP vs Servlet</a></li>
   <li><a href="https://www.javatpoint.com/MVC-in-jsp">What is MVC in JSP</a></li>
+  <li><a href="https://www.geeksforgeeks.org/difference-between-jsp-and-asp/">JSP(for Java Oracle) vs ASP(for .Net Microsoft)</a></li>
 </ul>
 
 ## 1. References
